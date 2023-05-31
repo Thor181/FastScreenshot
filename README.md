@@ -1,0 +1,2 @@
+# FastScreenshot
+Make screenshots easy
